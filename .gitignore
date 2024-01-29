@@ -136,3 +136,5 @@ dmypy.json
 /venv/
 /venv/
 /venv/
+
+*.py linguist-language=Python
